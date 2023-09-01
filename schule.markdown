@@ -1,0 +1,11 @@
+---
+title: Schule
+layout: page
+permalink: /schule/
+---
+{% include youtube.html youtube_id="zl0K8mOA70E" %}
+Dieses kleine Video ist das Aktuellste aus Chaklala. Seit Mitte September hat die Schule wieder vollen Betrieb mit 150 Schülern.
+
+## Horizon School
+
+Bei den diesjährigen Besuch (Herbst 2019) durften wir (Claire und Rainer Ebeling) wieder die Gastfreundschaft von Azam Gill und seiner Familie geniessen. Die ersten Tage verbrachten wir in Rawalpindi und besuchten die Schule von Barbara Gill, die neu Horizon School und nicht mehr Christian Cambridge School heisst.

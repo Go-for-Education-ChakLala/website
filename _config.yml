@@ -11,10 +11,6 @@ theme: minima
 
 minima:
   skin: auto
-
-header_pages:
-  - _/pages/basis-medizin.markdown
-  - _/pages/schule.markdown
   
 plugins:
   - jekyll-feed
@@ -23,3 +19,6 @@ plugins:
 maps:
   google:
     api_key: AIzaSyBRAWiUMQD-6V8IZiuBGJHN6qmpmnrgO6U
+    
+includes:
+  - _pages
