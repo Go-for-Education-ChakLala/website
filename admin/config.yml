@@ -43,14 +43,14 @@ collections:
     files:
       - label: 'Basis-Medizin Page'
         name: 'basis-medizin'
-        file: '_pages/basis-medizin.markdown'
+        file: 'basis-medizin.markdown'
         fields:
           - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'about' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: 'Schule Page'
         name: 'schule'
-        file: '_pages/schule.markdown'
+        file: 'schule.markdown'
         fields:
           - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'about' }
