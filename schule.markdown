@@ -9,3 +9,9 @@ Dieses kleine Video ist das Aktuellste aus Chaklala. Seit Mitte September hat di
 ## Horizon School
 
 Bei den diesjährigen Besuch (Herbst 2019) durften wir (Claire und Rainer Ebeling) wieder die Gastfreundschaft von Azam Gill und seiner Familie geniessen. Die ersten Tage verbrachten wir in Rawalpindi und besuchten die Schule von Barbara Gill, die neu Horizon School und nicht mehr Christian Cambridge School heisst.
+
+![](/assets/uploads/20191028_1059221333977300717715738.jpg)
+
+Zu den Neuerungen im letzten Jahr gehörten die Anschaffung eines Wasserspenders. Ausserdem fing man an einen geschützten Pausenhof zu bauen.
+
+![](/assets/uploads/dsc_02626670521544568959879.jpg)
