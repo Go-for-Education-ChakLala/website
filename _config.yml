@@ -13,10 +13,7 @@ minima:
   skin: auto
 
 header_pages:
-  - aktuelles.markdown
-  - basisMedizin.markdown
-  - schule.markdown
-  - theologischesGrundlagenProgramm.markdown
+  - basis-medizin.markdown
   
 plugins:
   - jekyll-feed

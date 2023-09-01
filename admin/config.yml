@@ -41,9 +41,9 @@ collections:
     editor:
       preview: false
     files:
-      - label: 'About Page'
-        name: 'about'
-        file: 'about.md'
+      - label: 'Basis-Medizin Page'
+        name: 'basis-medizin'
+        file: 'basis-medizin.markdown'
         fields:
           - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'about' }
