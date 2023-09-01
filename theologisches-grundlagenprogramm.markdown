@@ -3,8 +3,6 @@ title: Theologisches Grundlagenprogramm
 layout: page
 permalink: /theologisches-grundlagenprogramm/
 ---
-# Theologisches Grundlagenprogramm
-
 Auf dieser Seite informieren wir über Kurse, die wir für Gemeindemitarbeiter und Pastoren ohne theologische Ausbildung entweder vor Ort oder via virtuelle meetings durchführen.
 
 Vom 28.10.2021 bis zum 9.11.2021 waren meine Tochter Claire und ich wieder in Pakistan. Ich konnte an drei Orten unterrichten.
