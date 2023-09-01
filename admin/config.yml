@@ -41,16 +41,23 @@ collections:
     editor:
       preview: false
     files:
-      - label: 'Basis-Medizin Page'
+      - label: 'Basis-Medizin'
         name: 'basis-medizin'
         file: 'basis-medizin.markdown'
         fields:
           - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'about' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
-      - label: 'Schule Page'
+      - label: 'Schule'
         name: 'schule'
         file: 'schule.markdown'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'about' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: 'Theologisches Grundlagenprogramm'
+        name: 'theologisches-grundlagenprogramm'
+        file: 'theologisches-grundlagenprogramm.markdown'
         fields:
           - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'about' }
