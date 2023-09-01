@@ -20,3 +20,17 @@ In Shazada Nähe Gojra im Punjab kamen ein paar Gemeindeleiter zusammen. mit ihn
 ![](/assets/uploads/20211103_135529-scaled.jpg)
 
 Im Barakao kamen vornehmend Teenie-Mädchen, haben sie waren voll dabei. Thema: Bibelstudium in Gruppen (Methodik)
+
+![](/assets/uploads/img-20211102-wa0010.jpg)
+
+![](/assets/uploads/20211103_104135-scaled.jpg)
+
+![](/assets/uploads/img-20211101-wa0000.jpg)
+
+![](/assets/uploads/img-20211101-wa0002.jpg)
+
+![](/assets/uploads/img-20211102-wa0003.jpg)
+
+![](/assets/uploads/img-20211102-wa0006.jpg)
+
+![](/assets/uploads/img-20211102-wa0009.jpg)
