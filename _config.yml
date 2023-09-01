@@ -13,7 +13,8 @@ minima:
   skin: auto
 
 header_pages:
-  - basis-medizin.markdown
+  - _/pages/basis-medizin.markdown
+  - _/pages/schule.markdown
   
 plugins:
   - jekyll-feed
