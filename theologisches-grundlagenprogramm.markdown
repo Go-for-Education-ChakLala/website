@@ -34,3 +34,11 @@ Im Barakao kamen vornehmend Teenie-Mädchen, haben sie waren voll dabei. Thema: 
 ![](/assets/uploads/img-20211102-wa0006.jpg)
 
 ![](/assets/uploads/img-20211102-wa0009.jpg)
+
+Und hier noch ein Eindruck vom Besuch in Jhelum. Das ist ein neuer Kontakt. Themen: Kanongeschichte und Bibelstudium in Gruppen.
+
+![](/assets/uploads/img-20211107-wa0000.jpg)
+
+![](/assets/uploads/img-20211107-wa0001.jpg)
+
+![](/assets/uploads/img-20211107-wa0007.jpg)
