@@ -9,34 +9,15 @@ Vom 28.10.2021 bis zum 9.11.2021 waren meine Tochter Claire und ich wieder in Pa
 
 In Shazada Nähe Gojra im Punjab kamen ein paar Gemeindeleiter zusammen. mit ihnen habe ich an drei Tagen Kanongeschichte und Bibelkunde behandelt. Bei der Bibelkunde habe ich das ganze AT behandeln können und beim NT bin ich nur bis zur Apostelgeschichte gekommen. Die Teilnehmer waren sehr engagiert und motiviert.
 
-![](/assets/uploads/img-20211102-wa0012.jpg)
-
-![](/assets/uploads/20211103_104135-scaled.jpg)
-
-![](/assets/uploads/20211103_142457-scaled.jpg)
-
-![](/assets/uploads/20211103_135529-scaled.jpg)
+{% include image-gallery.html folder="/assets/uploads/theologisches-grundlagenprogramm/gallery-1" %}
 
 Im Barakao kamen vornehmend Teenie-Mädchen, haben sie waren voll dabei. Thema: Bibelstudium in Gruppen (Methodik)
 
-![](/assets/uploads/img-20211102-wa0010.jpg)
-
-![](/assets/uploads/20211103_104135-scaled.jpg)
-
-![](/assets/uploads/img-20211101-wa0000.jpg)
-
-![](/assets/uploads/img-20211101-wa0002.jpg)
-
-![](/assets/uploads/img-20211102-wa0003.jpg)
-
-![](/assets/uploads/img-20211102-wa0006.jpg)
-
-![](/assets/uploads/img-20211102-wa0009.jpg)
+{% include image-gallery.html folder="/assets/uploads/theologisches-grundlagenprogramm/gallery-2" %}
 
 Und hier noch ein Eindruck vom Besuch in Jhelum. Das ist ein neuer Kontakt. Themen: Kanongeschichte und Bibelstudium in Gruppen.
 
-![](/assets/uploads/img-20211107-wa0000.jpg)
+{% include image-gallery.html folder="/assets/uploads/theologisches-grundlagenprogramm/gallery-3" %}
 
-![](/assets/uploads/img-20211107-wa0001.jpg)
-
-![](/assets/uploads/img-20211107-wa0007.jpg)
+<script type="text/javascript" src="/assets/js/lightbox.js"></script>
+<link rel="stylesheet" href="/assets/css/lightbox.css">
