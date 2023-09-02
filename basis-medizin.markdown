@@ -18,7 +18,3 @@ Während unserer Reise waren wir für 4 Tage im kleinen Dorf Shahzada (das doch 
 Zudem hatten die Frauen sehr viele Frage zu all ihren Problemen und Leiden und des war mehr eine Beratungsstunde als ein Kurs. Das war wohl auch die Erwartungshaltung der meisten Frauen, dass wenn eine Europäerin ins Dorf kommt, sie auch gratis Medikamente mitbringt. Genau daher möchte ich diese Kurse geben, um den Frauen zu zeigen, dass sie nicht auf fremde Hilfe angewiesen sind, sondern eigentlich alles vor ihrer Haustüre finden.
 
 {% include image-gallery.html folder="/assets/uploads/basis-medizin" %}
-
-<!-- ![](/assets/uploads/Basis-Medizin-4.png)
-
-![](/assets/uploads/Basis-Medizin-5.png) -->
