@@ -19,5 +19,5 @@ Zudem hatten die Frauen sehr viele Frage zu all ihren Problemen und Leiden und d
 
 {% include image-gallery.html folder="/assets/uploads/basis-medizin/gallery-2" %}
 
-<script type="text/javascript" src="/js/lightbox.js"></script>
-<link rel="stylesheet" href="/css/lightbox.css">
+<script type="text/javascript" src="/assets/js/lightbox.js"></script>
+<link rel="stylesheet" href="/assets/css/lightbox.css">
