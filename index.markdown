@@ -1,38 +1,14 @@
 ---
 layout: home
-carousels: [ images: [ image: assets/images/carousel-1.jpg, image: assets/images/carousel-2.jpg, image: assets/images/carousel-3.jpg, image: assets/images/carousel-4.jpg, image: assets/images/carousel-5.jpg, image: assets/images/carousel-6.jpg ] ]
+carousels: 
+    - images:
+        - image: assets/images/carousel-1.jpg 
+        - image: assets/images/carousel-2.jpg 
+        - image: assets/images/carousel-3.jpg 
+        - image: assets/images/carousel-4.jpg 
+        - image: assets/images/carousel-5.jpg 
+        - image: assets/images/carousel-6.jpg
 ---
-
-<style type="text/css">
-	.card {
-		background: white;
-		filter: drop-shadow(4px 10px 10px #00000048);
-		border-radius: 20px;
-		overflow: hidden;
-	}
-	
-	.card p {
-		padding-top: 1rem;
-		padding-inline: 1rem;
-	}
-	
-	.card h3 {
-		padding-left: 1rem;
-	}
-	
-	.card img {
-		max-width: 50%;
-		padding: 2rem; 
-	}
-	
-	.card-image {
-		text-align: center;
-	}
-	
-	.carousel {
-		border-radius: 20px;
-	}
-</style>
 
 {% include carousel.html height="66" unit="%" duration="7" number="1" %}
 
