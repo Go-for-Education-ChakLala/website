@@ -1,5 +1,15 @@
 ---
 ---
+.site-title::before {
+	display: inline-block;
+	content: "";
+	background-image: url('/assets/uploads/logo.png');
+	background-size: contain;
+	width: 28px; /* Adjust the width and height as needed */
+	height: 28px;
+	margin-right: 10px; /* Add spacing between the logo and other header content */
+}
+
 .video_wrapper {
 	position: relative;
 	padding-bottom: 56.25%;
@@ -15,8 +25,18 @@
 	height: 100%;
 }
 
+.grid-card {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 20px;
+	
+	@media (max-width: 767px) {
+		grid-template-columns: 1fr; /* Change to one column on mobile devices */
+	}
+}
+
 .card {
-	background: white;
+	background: var(--minima-table-zebra-color);
 	filter: drop-shadow(4px 10px 10px #00000048);
 	border-radius: 20px;
 	overflow: hidden;
@@ -43,3 +63,4 @@
 .carousel {
 	border-radius: 20px;
 }
+

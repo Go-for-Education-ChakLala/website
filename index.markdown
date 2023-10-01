@@ -24,7 +24,7 @@ GfE-Chaklala ist eine Organisation mit drei Zielen:
 
 Christliche Kirchen mit denen wir Kontakt haben sind in **Chaklala, Barakao, Rawat** sowie auf den Dörfern in der Nähe von **Toba Tek Singh.** Dort bieten wir Weiterbildung für Pastoren an.
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+<div class="grid-card">
 	<div class="card">
 		{% google_map width="100%" latitude="33.59638151769976" longitude="73.11492696376396" marker_title="Chaklala"%}
 		<p>Die Christian Cambridge School ist in <strong>Chaklala</strong>, einer Stadt im Grossraum <strong>Rawalpindi.</strong></p>
@@ -37,7 +37,7 @@ Christliche Kirchen mit denen wir Kontakt haben sind in **Chaklala, Barakao, Raw
 <br>
 ## Wie kann ich helfen?
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+<div class="grid-card">
 	<div class="card info-card">
 		<div class="card-image">
 			<img src="assets/images/kontakt.png" />

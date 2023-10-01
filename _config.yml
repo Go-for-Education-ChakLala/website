@@ -17,6 +17,8 @@ header_pages:
   
 excerpt_separator: <!--more-->
 
+show_excerpts: true
+
 plugins:
   - jekyll-feed
   - jekyll-maps
