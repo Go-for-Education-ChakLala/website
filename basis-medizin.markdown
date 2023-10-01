@@ -8,7 +8,6 @@ carousels:
         - image: /assets/uploads/Basis-Medizin-2.jpg
         - image: /assets/uploads/Basis-Medizin-3.jpg
 ---
-
 ## Erster Kurs
 
 Während unserer Reise waren wir für 4 Tage im kleinen Dorf Shahzada (das doch etwas mehr als 10.000 Einwohner hat) in der Nähe von Toba Tek Singh. Für mich war es in diesem Jahr vor allem wichtig, zwei kleine Lektionen zu halten, um zu sehen wie die Frauen es aufnehmen und wie sie mitmachen.

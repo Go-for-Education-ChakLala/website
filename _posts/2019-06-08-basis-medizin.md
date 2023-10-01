@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Basis Medizin
-permalink: /basis-medizin/
 carousels:
   - images:
       - image: /assets/uploads/Basis-Medizin-1.jpg
@@ -10,10 +9,11 @@ carousels:
 date: 2019-06-08T06:28:30.331Z
 author: Rainer Ebeling
 ---
-
 ## Erster Kurs
 
 Während unserer Reise waren wir für 4 Tage im kleinen Dorf Shahzada (das doch etwas mehr als 10.000 Einwohner hat) in der Nähe von Toba Tek Singh. Für mich war es in diesem Jahr vor allem wichtig, zwei kleine Lektionen zu halten, um zu sehen wie die Frauen es aufnehmen und wie sie mitmachen.
+
+<!--more-->
 
 {% include image-gallery.html folder="/assets/uploads/basis-medizin/gallery-1" %}
 

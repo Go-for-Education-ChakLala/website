@@ -1,4 +1,4 @@
-ignore_theme_config: true
+
 title: "Go for Education Chaklala"
 email: "info@gfe-chaklala.org"
 description: ""
@@ -12,6 +12,11 @@ theme: minima
 minima:
   skin: auto
   
+header_pages:
+  - aktuelles.markdown
+  
+excerpt_separator: <!--more-->
+
 plugins:
   - jekyll-feed
   - jekyll-maps
@@ -19,6 +24,3 @@ plugins:
 maps:
   google:
     api_key: AIzaSyBRAWiUMQD-6V8IZiuBGJHN6qmpmnrgO6U
-    
-includes:
-  - _pages
