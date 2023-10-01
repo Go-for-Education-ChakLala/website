@@ -8,4 +8,6 @@ Wegen der anhaltenden Pandemie konnten wir in diesem Jahr unsere Freunde in Paki
 
 In der Basismedizin ist Claire wieder tätig. Sie hat heute gerade ein Video produziert, dass morgen in Pakistan gezeigt und diskutiert wird.
 
-In der theologischen Schulung nehmen wir u.a. den christlichen Festkalender durch. 
+In der theologischen Schulung nehmen wir u.a. den christlichen Festkalender durch.
+
+{% include image-gallery.html folder="/assets/uploads/fernunterricht" %}

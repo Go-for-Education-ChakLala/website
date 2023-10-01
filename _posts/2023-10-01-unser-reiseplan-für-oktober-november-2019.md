@@ -10,7 +10,5 @@ Die ersten Tage werden wir (Claire und Rainer Ebeling) in Rawalpindi verbringen,
 
 Am Dienstag fahren wir mit einem kurzen Stopp in Faislabad nach Shahzada, wo Claire den ersten Kurs in Basis Medizin für die Frauen im Dorf durchführen wird und Rainer die Pastoren der Umgebung unterrichten wird. Für die letzten Tage in Rawalpindi steht der Besuch und zwei Vorlesungen an der ZBS und die Sonntagspredigt in Barakau für Rainer an. Am 5. November gehts via London zurück in die Schweiz.
 
-{% include image-gallery.html folder="/assets/uploads/reiseplan" %}
-
 <script type="text/javascript" src="/assets/js/lightbox.js"></script>
 <link rel="stylesheet" href="/assets/css/lightbox.css">
