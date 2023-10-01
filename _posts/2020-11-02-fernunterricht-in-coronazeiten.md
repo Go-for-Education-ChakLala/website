@@ -6,6 +6,8 @@ author: Rainer Ebeling
 ---
 Wegen der anhaltenden Pandemie konnten wir in diesem Jahr unsere Freunde in Pakistan nicht besuchen. Aber vom 30.10.bis 3.11. führen wir virtuelle Schulungseinheiten durch.
 
+<!--more-->
+
 In der Basismedizin ist Claire wieder tätig. Sie hat heute gerade ein Video produziert, dass morgen in Pakistan gezeigt und diskutiert wird.
 
 In der theologischen Schulung nehmen wir u.a. den christlichen Festkalender durch.
