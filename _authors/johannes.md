@@ -1,5 +1,7 @@
 ---
 short_name: johannes
 name: Johannes Ebeling
-position: webmaster
+display_name: Johannes Ebeling
+position: Webmaster
 ---
+Responsible for all the technical stuff behind the scenes.
