@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Basis Medizin
-date: 2019-06-08T06:28:30.331Z
+date: 2019-06-08T18:00:30.331Z
 author: Claire
 ---
 ## Erster Kurs
