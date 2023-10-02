@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Theologisches Grundlagenprogramm
-date: 2023-11-10T19:00:27.044Z
+date: 2021-11-10T19:00:27.044Z
 author: Rainer Ebeling
 ---
 Auf dieser Seite informieren wir über Kurse, die wir für Gemeindemitarbeiter und Pastoren ohne theologische Ausbildung, entweder vor Ort oder via virtuellen Meetings, durchführen.
