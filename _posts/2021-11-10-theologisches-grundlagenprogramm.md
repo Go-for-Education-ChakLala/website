@@ -6,7 +6,7 @@ author: Rainer Ebeling
 ---
 Auf dieser Seite informieren wir über Kurse, die wir für Gemeindemitarbeiter und Pastoren ohne theologische Ausbildung, entweder vor Ort oder via virtuellen Meetings, durchführen.
 
-Auf dieser Seite informieren wir über Kurse, die wir für Gemeindemitarbeiter und Pastoren ohne theologische Ausbildung entweder vor Ort oder via virtuelle meetings durchführen.
+<!--more-->
 
 {% include image-gallery.html folder="/assets/uploads/theologisches-grundlagenprogramm/gallery-1" %}
 
