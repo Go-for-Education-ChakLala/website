@@ -11,6 +11,9 @@ theme: minima
 
 minima:
   skin: auto
+
+  social_links:
+    - { platform: facebook,  user_url: "https://facebook.com/GfEChakLala/" }
   
 header_pages:
   - aktuelles.markdown
