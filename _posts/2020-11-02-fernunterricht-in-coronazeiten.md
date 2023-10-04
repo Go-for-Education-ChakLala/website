@@ -13,6 +13,3 @@ In der Basismedizin ist Claire wieder tätig. Sie hat heute gerade ein Video pro
 In der theologischen Schulung nehmen wir u.a. den christlichen Festkalender durch.
 
 {% include image-gallery.html folder="/assets/uploads/fernunterricht" %}
-
-<script type="text/javascript" src="/assets/js/lightbox.js"></script>
-<link rel="stylesheet" href="/assets/css/lightbox.css">

@@ -16,6 +16,7 @@ minima:
     - { platform: facebook,  user_url: "https://facebook.com/GfEChakLala/" }
   
 header_pages:
+  - index.markdown
   - aktuelles.markdown
   
 excerpt_separator: <!--more-->

@@ -13,6 +13,3 @@ Am ersten Tag stand die Herstellung eines Chilli-Öls auf dem Programm und am zw
 {% include image-gallery.html folder="/assets/uploads/basis-medizin/gallery-1" %}
 
 Zudem hatten die Frauen sehr viele Frage zu all ihren Problemen und Leiden und des war mehr eine Beratungsstunde als ein Kurs. Das war wohl auch die Erwartungshaltung der meisten Frauen, dass wenn eine Europäerin ins Dorf kommt, sie auch gratis Medikamente mitbringt. Genau daher möchte ich diese Kurse geben, um den Frauen zu zeigen, dass sie nicht auf fremde Hilfe angewiesen sind, sondern eigentlich alles vor ihrer Haustüre finden.
-
-<script type="text/javascript" src="/assets/js/lightbox.js"></script>
-<link rel="stylesheet" href="/assets/css/lightbox.css">

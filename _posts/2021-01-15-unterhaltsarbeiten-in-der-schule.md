@@ -9,6 +9,3 @@ Renovierungsarbeiten in der Horizon Schule haben am 9. Januar begonnen. Sie soll
 <!--more-->
 
 {% include image-gallery.html folder="/assets/uploads/unterhaltsarbeiten" %}
-
-<script type="text/javascript" src="/assets/js/lightbox.js"></script>
-<link rel="stylesheet" href="/assets/css/lightbox.css">

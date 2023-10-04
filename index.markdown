@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Home
 carousels: 
     - images:
         - image: assets/images/carousel-1.jpg 

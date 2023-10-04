@@ -19,6 +19,3 @@ Und hier noch ein Eindruck vom Besuch in Jhelum. Das ist ein neuer Kontakt.
 Themen: Kanongeschichte und Bibelstudium in Gruppen.
 
 {% include image-gallery.html folder="/assets/uploads/theologisches-grundlagenprogramm/gallery-3" %}
-
-<script type="text/javascript" src="/assets/js/lightbox.js"></script>
-<link rel="stylesheet" href="/assets/css/lightbox.css">
