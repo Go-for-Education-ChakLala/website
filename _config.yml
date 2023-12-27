@@ -18,6 +18,7 @@ minima:
 header_pages:
   - index.markdown
   - aktuelles.markdown
+  - kontakt.markdown
   
 excerpt_separator: <!--more-->
 
