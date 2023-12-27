@@ -8,7 +8,10 @@ Bei den diesjährigen Besuch (Herbst 2019) durften wir (Claire und Rainer Ebelin
 
 <!--more-->
 
-{% include youtube.html youtube_id="zl0K8mOA70E" %}
+<video controls width="100%">
+  <source src="/assets/uploads/horizon-school.mp4" type="video/mp4">
+Your browser does not support HTML5 video.
+</video>
 
 Dieses kleine Video ist das Aktuellste aus Chaklala. Seit Mitte September hat die Schule wieder vollen Betrieb mit 150 Schülern.
 
