@@ -9,7 +9,7 @@ Bei den diesjährigen Besuch (Herbst 2019) durften wir (Claire und Rainer Ebelin
 <!--more-->
 
 <video controls width="100%">
-  <source src="/assets/uploads/horizon-school.mp4" type="video/mp4">
+  <source src="//utfs.io/f/0cb3db53-ee7a-4903-a37f-00257172a5f6-73puxy.mp4" type="video/mp4">
 Your browser does not support HTML5 video.
 </video>
 
