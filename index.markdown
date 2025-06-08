@@ -1,13 +1,13 @@
 ---
 layout: home
 title: Home
-carousels: 
+carousels:
     - images:
-        - image: assets/images/carousel-1.jpg 
-        - image: assets/images/carousel-2.jpg 
-        - image: assets/images/carousel-3.jpg 
-        - image: assets/images/carousel-4.jpg 
-        - image: assets/images/carousel-5.jpg 
+        - image: assets/images/carousel-1.jpg
+        - image: assets/images/carousel-2.jpg
+        - image: assets/images/carousel-3.jpg
+        - image: assets/images/carousel-4.jpg
+        - image: assets/images/carousel-5.jpg
         - image: assets/images/carousel-6.jpg
 ---
 
@@ -27,7 +27,7 @@ Christliche Kirchen mit denen wir Kontakt haben sind in **Chaklala, Barakao, Raw
 
 <div class="grid-card">
 	<div class="card">
-		{% google_map width="100%" latitude="33.59638151769976" longitude="73.11492696376396" marker_title="Chaklala"%}
+		{% google_map width="100%" latitude="33.59703148873081" longitude="73.11538565889549" marker_title="Horizon School Chaklala"%}
 		<p>Die Christian Cambridge School ist in <strong>Chaklala</strong>, einer Stadt im Grossraum <strong>Rawalpindi.</strong></p>
 	</div>
 	<div class="card">
