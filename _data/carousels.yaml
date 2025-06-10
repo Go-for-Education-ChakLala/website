@@ -1,0 +1,4 @@
+carousels:
+  - name: test
+    images:
+      - image: /assets/uploads/20191027_1122257749067515451259819.jpg
