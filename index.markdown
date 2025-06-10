@@ -39,10 +39,8 @@ Christliche Kirchen mit denen wir Kontakt haben sind in **Chaklala, Barakao, Raw
 ## Wie kann ich helfen?
 
 <div class="grid-card">
-	<div class="card info-card">
-		<div class="card-image">
-			<img src="assets/images/kontakt.png" />
-		</div>
+	<div class="card">
+		<img class="card-image" src="assets/images/kontakt.png" />
 		<h3>Kontakt</h3>
 		<p>
 		Lindenweg 10<br>
@@ -50,10 +48,8 @@ Christliche Kirchen mit denen wir Kontakt haben sind in **Chaklala, Barakao, Raw
 		info@gfe-chaklala.org
 		</p>
 	</div>
-	<div class="card info-card">
-		<div class="card-image">
-			<img src="assets/images/give-love.png" />
-		</div>
+	<div class="card">
+		<img class="card-image" src="assets/images/give-love.png" />
 		<h3>Spenden</h3>
 		<p>
 			GFE-ChakLala (Go for Education ChakLala)
