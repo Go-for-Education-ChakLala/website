@@ -1,4 +1,3 @@
-
 title: "Go for Education Chaklala"
 email: "info@gfe-chaklala.org"
 description: ""
@@ -11,15 +10,13 @@ theme: minima
 
 minima:
   skin: auto
+  nav_pages:
+    - aktuelles.markdown
+    - kontakt.markdown
 
   social_links:
-    - { platform: facebook,  user_url: "https://facebook.com/GfEChakLala/" }
-  
-header_pages:
-  - index.markdown
-  - aktuelles.markdown
-  - kontakt.markdown
-  
+    - { platform: facebook, user_url: "https://facebook.com/GfEChakLala/" }
+
 excerpt_separator: <!--more-->
 
 show_excerpts: true
@@ -27,7 +24,11 @@ show_excerpts: true
 plugins:
   - jekyll-feed
   - jekyll-maps
-  
+
+collections:
+  carousels:
+    output: false
+
 maps:
   google:
     api_key: AIzaSyBRAWiUMQD-6V8IZiuBGJHN6qmpmnrgO6U

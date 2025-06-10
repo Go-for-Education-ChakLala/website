@@ -5,6 +5,33 @@ media_folder: 'assets/uploads/'
 publish_mode: editorial_workflow
 logo_url: https://gfe-chaklala.org/assets/uploads/logo.png
 collections:
+  - name: 'carousels'
+    label: 'Carousels'
+    label_singular: 'Carousel'
+    folder: '_carousels/'
+    create: true
+    slug: '{{name}}'
+    editor:
+      preview: false
+    fields:
+      - label: 'Name'
+        name: 'name'
+        widget: 'string'
+        hint: 'Unique name of the carousel (e.g. home, about)'
+      - label: 'Images'
+        name: 'images'
+        widget: 'list'
+        allow_add: true
+        collapsed: false
+        summary: '{{image}}'
+        fields:
+          - label: 'Image'
+            name: 'image'
+            widget: 'image'
+            choose_url: true
+            media_library:
+              config:
+                multiple: false
   - name: 'blog'
     label: 'Blog'
     folder: '_posts/'

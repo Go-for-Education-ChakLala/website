@@ -1,17 +1,9 @@
 ---
 layout: home
 title: Home
-carousels:
-    - images:
-        - image: assets/images/carousel-1.jpg
-        - image: assets/images/carousel-2.jpg
-        - image: assets/images/carousel-3.jpg
-        - image: assets/images/carousel-4.jpg
-        - image: assets/images/carousel-5.jpg
-        - image: assets/images/carousel-6.jpg
 ---
 
-{% include carousel.html height="66" unit="%" duration="7" number="1" %}
+{% include carousel.html height="66" unit="%" duration="7" number="1" name="home" %}
 
 ## Was ist GfE-Chaklala?
 
