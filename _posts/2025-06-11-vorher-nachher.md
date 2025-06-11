@@ -6,6 +6,8 @@ author: Rainer Ebeling
 ---
 In diesem Frühjahr (2025) konnten dank unseren Sponsoren 150 Tische und Stühle restauriert werden. Wir sind sehr dankbar und die Schüler haben sich sehr gefreut - speziell die Erstklässler.
 
+<!--more-->
+
 ![](/assets/images/489053045_954706573493492_6204837853150416491_n.jpg)
 
 ![](/assets/images/489938017_954704516827031_5011784530537445866_n.jpg)
