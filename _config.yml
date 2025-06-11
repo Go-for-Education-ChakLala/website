@@ -15,8 +15,13 @@ minima:
     - kontakt.markdown
 
   social_links:
-    - { platform: facebook, user_url: "https://facebook.com/GfEChakLala/" }
-
+    - title: GfE ChakLala on Facebook
+      icon: facebook
+      url: "https://facebook.com/GfEChakLala"
+    - title: Datenschutz
+      icon: shield
+      fa_namespace: regular
+      url: "/datenschutz.html"
 excerpt_separator: <!--more-->
 
 show_excerpts: true
