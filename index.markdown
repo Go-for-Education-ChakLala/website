@@ -23,7 +23,7 @@ Christliche Kirchen mit denen wir Kontakt haben sind in **Chaklala, Barakao, Raw
    	<script type="text/javascript">
       const mapSchool = new maplibregl.Map({
         container: 'mapSchool',
-        style: 'https://tiles.stadiamaps.com/styles/alidade_smooth.json',
+        style: 'https://tiles.stadiamaps.com/styles/osm_bright.json',
         center: [73.11538565889549, 33.59703148873081],
         zoom: 13
       });
@@ -62,7 +62,7 @@ Christliche Kirchen mit denen wir Kontakt haben sind in **Chaklala, Barakao, Raw
     <script type="text/javascript">
       const mapVillage = new maplibregl.Map({
         container: 'mapVillage',
-        style: 'https://tiles.stadiamaps.com/styles/alidade_smooth.json',
+        style: 'https://tiles.stadiamaps.com/styles/osm_bright.json',
         center: [72.52149251829657, 31.021326843562978],
         zoom: 13
       });
