@@ -8,6 +8,13 @@ author:
 
 theme: minima
 
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+
 minima:
   skin: auto
   nav_pages:
@@ -28,12 +35,9 @@ show_excerpts: true
 
 plugins:
   - jekyll-feed
-  - jekyll-maps
 
 collections:
   carousels:
     output: false
-
-maps:
-  google:
-    api_key: AIzaSyBRAWiUMQD-6V8IZiuBGJHN6qmpmnrgO6U
+  authors:
+    output: true
